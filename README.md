@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BIJAY KUMAR CHAUDHARY
-- 👀 I’m interested in DATA SCIENCE , WEB DEVELOPMENT AND DIGITAL MARKETING 
+- 👀 I’m interested in DATA SCIENCE and SOFTWARE ENGINEERING (Python / Java)
 - 🌱 I’m currently learning COMPUTER SCIENCE AND ENGINEERING
 - 💞️ I’m looking to collaborate on MY OWN COMPANY
 - 📫 How to reach me BY MAILING ME
