@@ -1,8 +1,8 @@
-- 👋 Hi, I’m BIJAY KUMAR CHAUDHARY
-- 👀 I’m interested in DATA SCIENCE and SOFTWARE ENGINEERING (Python / Java)
-- 🌱 I’m currently learning COMPUTER SCIENCE AND ENGINEERING
-- 💞️ I’m looking to collaborate on MY OWN COMPANY
-- 📫 How to reach me BY MAILING ME
+- 👋 Hi, I’m bijay, Welcome to my Github profile
+- 👀 Currently, I am studying Computer Science and Engineering in Sona College of Technology.
+      I’m interested in  Data Science, Machine Learning and Software development.
+- 🌱 I’m looking for collaboration on the project where i can contribute my best.
+- 📫 You can reach me @ bijaychaudharyy99@gmail.com for further you can go on link = https://www.linkedin.com/in/bijay-chaudhary-0797911b1/
 
 <!---
 BijayChaudhary99/BijayChaudhary99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
