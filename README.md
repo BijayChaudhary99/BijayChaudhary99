@@ -161,11 +161,17 @@ A computer vision project comparing traditional stereo depth reconstruction with
 
 <div align="center">
 
-![Bijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BijayChaudhary99&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BijayChaudhary99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bijay's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BijayChaudhary99&layout=compact&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BijayChaudhary99&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijayChaudhary99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=BijayChaudhary99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 </div>
 
