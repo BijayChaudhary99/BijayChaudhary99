@@ -130,8 +130,8 @@ This project focuses on improving real-time application performance by routing c
 
 ---
 
-### Classical Stereo Vision vs. Monocular Depth Estimation
-A computer vision project comparing traditional stereo depth reconstruction with pretrained deep learning-based monocular depth estimation.
+### DepthVision Lab
+A computer vision project comparing classical stereo 3D reconstruction with deep learning-based monocular depth estimation.
 
 **Key Work**
 - Captured stereo image pairs
