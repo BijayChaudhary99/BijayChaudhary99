@@ -4,13 +4,12 @@
 
 ### Software Engineer | AI/LLM Applications | Full-Stack Development | Cloud & DevOps
 
-I build practical, scalable, and user-focused software using **Python, JavaScript/TypeScript, React, Node.js, Express, FastAPI, MongoDB, MySQL, Docker, and CI/CD pipelines**.
+I build AI-integrated full-stack applications, backend systems, and deployment-ready software using **React, Node.js, Python, TypeScript, MongoDB, MySQL, Docker, and CI/CD pipelines**.
 
-Currently, I am focused on building **AI-integrated applications, full-stack platforms, backend services, and deployment-ready systems** that solve real-world problems.
-
-📍 M.S. Computer Science, Saint Louis University  
-📫 Reach me at **bijay.chaudhary.tech@gmail.com**  
-🔗 LinkedIn: [Bijay Kumar Chaudhary](https://www.linkedin.com/in/bijay-chaudhary-0797911b1/)
+🎓 M.S. Computer Science, Saint Louis University  
+💼 Actively seeking Software Engineering, Backend, Full-Stack, and AI-focused roles  
+📫 **bijay.chaudhary.tech@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/bijay-chaudhary-0797911b1/) | [GitHub](https://github.com/BijayChaudhary99)
 
 </div>
 
