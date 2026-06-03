@@ -2,7 +2,7 @@
 
 # Hi, I'm Bijay Kumar Chaudhary 👋
 
-### Software Engineer | AI/LLM Applications | Full-Stack Development | Cloud & DevOps
+### Software Engineer | Full-Stack & Backend Development | AI-Integrated Applications | Docker, CI/CD & Cloud-Ready Projects
 
 I build AI-integrated full-stack applications, backend systems, and deployment-ready software using **React, Node.js, Python, TypeScript, MongoDB, MySQL, Docker, and CI/CD pipelines**.
 
