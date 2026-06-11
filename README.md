@@ -164,12 +164,6 @@ A computer vision project comparing classical stereo 3D reconstruction with deep
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijayChaudhary99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/><br/>
-
-<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=BijayChaudhary99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 </div>
