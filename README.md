@@ -156,20 +156,6 @@ A computer vision project comparing classical stereo 3D reconstruction with deep
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BijayChaudhary99&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bijay's GitHub Stats" />
-
-<br/><br/>
-
-</div>
-
-</div>
-
----
-
 ## Professional Focus
 
 I am especially interested in roles where I can work on:
